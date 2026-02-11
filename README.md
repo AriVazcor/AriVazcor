@@ -54,8 +54,7 @@ I'm a **Software Development student** passionate about turning logic into funct
 
 ### 📈 GitHub Stats
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AriVazcor&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&cache_id=01" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AriVazcor&layout=compact&theme=buefy&cache_id=01" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriVazcor&theme=buefy" />
 </div>
 
 ---
